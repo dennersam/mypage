@@ -1,3 +1,8 @@
+#Projeto MyPage
+
+Esse é um projeto que fiz para o curso da Digital Innovation One em Angula de um portifólio profissional,
+demonstrando o comportamento dos componentes e como são formados na página principal.  
+
 # Mypage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
