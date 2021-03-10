@@ -1,0 +1,32 @@
+.exp-content{
+  height: auto;
+  text-align: center;
+  padding-top: 35px;
+  padding-bottom: 50px;
+  color:#3f51b5;
+}
+
+.icon-title{
+  font-size: 60px;
+}
+
+.cards-exp{
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.card-ext{
+  max-width: 350px;
+  margin: 30px auto;
+}
+
+.logo{
+  width: 270px;
+  padding: 10px 50px;
+
+}
+
+
+

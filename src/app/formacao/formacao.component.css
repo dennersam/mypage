@@ -1,0 +1,19 @@
+h2{
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+span{
+  display: inline;
+}
+.formacao{
+  height: 250px;
+  text-align: center;
+  padding-top: 35px;
+  color: white;
+  background-color: #3f51b5;
+}
+
+.icon-title{
+  font-size: 60px;
+}
