@@ -1,11 +1,11 @@
-.example-spacer {
+.toolbar-topo{
   flex: 1 1 auto;
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
 }
 
 h1{
-  padding-right: 10px;
-}
-
-.toolbar-topo{
-
+  padding-right: 50px;
+  justify-content: left;
 }

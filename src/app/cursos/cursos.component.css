@@ -1,5 +1,6 @@
 .cursos-content{
-  height: auto;
+  margin-top: 60px;
+  margin-bottom: 40px;
   text-align: center;
   color:#3f51b5;
 }
@@ -19,12 +20,12 @@
   width: 100%;
   justify-content: space-between;
   text-align: center;
-  margin: 50px auto;
+  margin-bottom: 100px;
 }
 
 mat-card img{
-  max-width: 100px;
-  min-height: 110px;
+  max-width: 170px;
+  min-height: 170px;
   padding: 10px;
   margin: 10px ;
 }
