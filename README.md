@@ -7,7 +7,7 @@ demonstrando o comportamento dos componentes e como é formado uma aplicação w
 
 Para o topo da página utilizei 2 componente: header e perfil. O header seria a barra em azul onde usei angular material para poder inserir mat-toolbar e mat-menu.
 
-![](/assets/img/readme/topo.png)
+![](/src/assets/img/readme/topo.png)
 
 ## Mypage
 
