@@ -5,13 +5,41 @@ demonstrando o comportamento dos componentes e como é formado uma aplicação w
 
 ## Topo da pagina
 
-Para o topo da página utilizei 2 componente: header e perfil. O header seria a barra em azul onde usei angular material para poder inserir mat-toolbar e mat-menu.
+Para o topo da página utilizei 2 componente: header e perfil. O header seria a barra em azul onde usei angular material para poder inserir mat-toolbar e mat-menu. Usei um material-card para fazer o meu perfil com um avatar, titulo e subtitulo, foto, descrição e links para outras páginas usando mat-buttons.
 
 ![](/src/assets/img/readme/topo.png)
 
-## Mypage
+## Formação
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+Esse é um componente que fica abaixo da sessão perfil, nela tem informação da minha formação acadêmica.
+
+![](/src/assets/img/readme/formacao.png)
+
+## Experiências
+
+Outro componente onde usei mat-cards para cada experiência, informando o nome empresa, periodo de trabalho, descrição das atividades realizadas, e um mat-button para o site da companhia.
+
+![](/src/assets/img/readme/experiencias.png)
+
+## Cursos Extras
+
+Esse é um componente onde mat-cards para representar cada curso realizado por mim, com a logo do curso, nome do curso, nome da instituição, e o momento que foi finalizado.
+
+![](/src/assets/img/readme/cursos.png)
+
+## Contato
+
+Componente responsável por capturar informações de contato, através de mat-form consigo adquirir do usuário o nome, e-mail e informações que precisa, e um mat-button para enviar a solicitação para meu e-mail.
+
+![](/src/assets/img/readme/contato.png)
+
+## Footer
+
+Para finalizar a página, usei um componente simples para colocar informação do desenvolvedor.
+
+![](/src/assets/img/readme/footer.png)
+
+
 
 ## Development server
 
