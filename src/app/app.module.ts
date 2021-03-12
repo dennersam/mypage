@@ -13,8 +13,7 @@ import { FormacaoComponent } from './formacao/formacao.component';
 import { ExpComponent } from './exp/exp.component';
 import { CursosComponent } from './cursos/cursos.component';
 import { ContatoComponent } from './contato/contato.component';
-
-
+import { MDBBootstrapModule } from 'angular-bootstrap-md';
 
 @NgModule({
   declarations: [
@@ -32,7 +31,8 @@ import { ContatoComponent } from './contato/contato.component';
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
-    DemoMaterialModule
+    DemoMaterialModule,
+    MDBBootstrapModule.forRoot()
   ],
   providers: [],
   bootstrap: [AppComponent]

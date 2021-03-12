@@ -9,24 +9,20 @@
 
 .cartao{
   margin-top: 40px;
-  margin-bottom: 35px;
+  margin-bottom: 25px;
   display: flex;
   flex-direction: row;
   justify-content: center;
-
 }
 
 .foto-perfil{
-    width: 270px;
+    width: 390px;
     padding: 10px 80px;
 
 }
 
 .projetos{
-  margin-left: 30px;
-  max-width: 500px;
-  max-height: 500px;
-  text-align: center;
+ margin-bottom: 35px;
 }
 
 h1{
@@ -34,8 +30,8 @@ h1{
   font-size:xx-large;
   font-weight: bolder;
 }
-.sites{
-  background-size: cover;
-  width: 300px;
-  height: 150px;
+
+.carousel-indicators {
+  display: none;
+
 }

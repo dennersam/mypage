@@ -1,9 +1,15 @@
-#Projeto MyPage
+# Projeto MyPage
 
-Esse é um projeto que fiz para o curso da Digital Innovation One em Angula de um portifólio profissional,
-demonstrando o comportamento dos componentes e como são formados na página principal.  
+Esse é um projeto realizado para o curso da Digital Innovation One em Angula de um portifólio profissional,
+demonstrando o comportamento dos componentes e como é formado uma aplicação web.
 
-# Mypage
+## Topo da pagina
+
+Para o topo da página utilizei 2 componente: header e perfil. O header seria a barra em azul onde usei angular material para poder inserir mat-toolbar e mat-menu.
+
+![](/assets/img/readme/topo.png)
+
+## Mypage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
